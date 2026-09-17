@@ -14,19 +14,19 @@ x install flit
 
 ## Code insight
 
-Total: **9,946** lines of code across **205** files in the top 5 languages.
+Total: **9,960** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 7,253 | 531 | 1,384 | 127 |
-| ReStructuredText | 1,261 | 0 | 400 | 26 |
+| Python | 7,260 | 533 | 1,384 | 127 |
+| ReStructuredText | 1,268 | 0 | 402 | 26 |
 | Toml | 697 | 1 | 93 | 49 |
 | Svg | 303 | 2 | 2 | 2 |
 | Batch | 212 | 1 | 29 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,252 · **Forks**: 167 · **Open issues**: 432 · **Contributors**: 136
+- **Stars**: 2,252 · **Forks**: 167 · **Open issues**: 432 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 295 · **Open PRs**: 21 · **Closed issues**: 327 · **Open issues**: 105 · **Commits**: 1427
+- **Releases**: 0 · **Merged PRs**: 297 · **Open PRs**: 20 · **Closed issues**: 327 · **Open issues**: 105 · **Commits**: 1433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-07-18 | 0 | 12 | 1 | 3 | 0 | 16 |
-| 90d | 2026-06-18 | 0 | 13 | 2 | 4 | 0 | 19 |
-| last180d | 2026-03-20 | 0 | 17 | 3 | 6 | 0 | 26 |
-| 360d | 2025-09-21 | 0 | 28 | 3 | 8 | 1 | 40 |
-| last720d | 2024-09-26 | 0 | 75 | 4 | 25 | 10 | 225 |
+| 30d | 2026-08-18 | 0 | 6 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-19 | 0 | 14 | 0 | 3 | 0 | 20 |
+| 90d | 2026-06-19 | 0 | 15 | 1 | 4 | 0 | 23 |
+| last180d | 2026-03-21 | 0 | 19 | 2 | 6 | 0 | 30 |
+| 360d | 2025-09-22 | 0 | 30 | 2 | 8 | 1 | 44 |
+| last720d | 2024-09-27 | 0 | 77 | 3 | 25 | 10 | 231 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:49:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:50:37Z._
