@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,256 · **Forks**: 172 · **Open issues**: 432 · **Contributors**: 137
+- **Stars**: 2,256 · **Forks**: 173 · **Open issues**: 432 · **Contributors**: 137
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 297 · **Open PRs**: 27 · **Closed issues**: 327 · **Open issues**: 105 · **Commits**: 1433
+- **Releases**: 0 · **Merged PRs**: 297 · **Open PRs**: 28 · **Closed issues**: 327 · **Open issues**: 105 · **Commits**: 1433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 6 | 7 | 0 | 0 | 9 |
-| 90d | 2026-07-18 | 0 | 14 | 7 | 3 | 0 | 21 |
-| last180d | 2026-04-19 | 0 | 19 | 8 | 6 | 0 | 30 |
-| 360d | 2025-10-21 | 0 | 28 | 9 | 7 | 1 | 40 |
-| last720d | 2024-10-26 | 0 | 75 | 10 | 25 | 9 | 224 |
+| 30d | 2026-09-17 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 0 | 6 | 8 | 0 | 0 | 9 |
+| 90d | 2026-07-19 | 0 | 14 | 8 | 3 | 0 | 21 |
+| last180d | 2026-04-20 | 0 | 19 | 9 | 6 | 0 | 30 |
+| 360d | 2025-10-22 | 0 | 28 | 10 | 7 | 1 | 40 |
+| last720d | 2024-10-27 | 0 | 74 | 11 | 25 | 9 | 224 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:52:14Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:35:45Z._
