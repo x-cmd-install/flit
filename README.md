@@ -14,12 +14,12 @@ x install flit
 
 ## Code insight
 
-Total: **10,501** lines of code across **205** files in the top 5 languages.
+Total: **10,547** lines of code across **205** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 7,780 | 587 | 1,482 | 127 |
-| ReStructuredText | 1,289 | 0 | 410 | 26 |
+| Python | 7,789 | 587 | 1,484 | 127 |
+| ReStructuredText | 1,326 | 0 | 417 | 26 |
 | Toml | 697 | 1 | 93 | 49 |
 | Svg | 303 | 2 | 2 | 2 |
 | Batch | 212 | 1 | 29 | 1 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 305 · **Open PRs**: 23 · **Closed issues**: 329 · **Open issues**: 103 · **Commits**: 1460
+- **Releases**: 0 · **Merged PRs**: 308 · **Open PRs**: 22 · **Closed issues**: 329 · **Open issues**: 103 · **Commits**: 1471
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 8 | 3 | 0 | 0 | 13 |
-| last60d | 2026-08-28 | 0 | 13 | 3 | 0 | 0 | 21 |
-| 90d | 2026-07-29 | 0 | 19 | 3 | 2 | 0 | 29 |
-| last180d | 2026-04-30 | 0 | 24 | 4 | 5 | 0 | 41 |
-| 360d | 2025-11-01 | 0 | 34 | 5 | 7 | 1 | 55 |
-| last720d | 2024-11-06 | 0 | 78 | 6 | 23 | 8 | 231 |
+| 30d | 2026-09-28 | 0 | 11 | 2 | 0 | 0 | 21 |
+| last60d | 2026-08-29 | 0 | 15 | 2 | 0 | 0 | 29 |
+| 90d | 2026-07-30 | 0 | 22 | 2 | 2 | 0 | 37 |
+| last180d | 2026-05-01 | 0 | 27 | 3 | 5 | 0 | 49 |
+| 360d | 2025-11-02 | 0 | 37 | 4 | 7 | 1 | 63 |
+| last720d | 2024-11-07 | 0 | 81 | 5 | 23 | 8 | 242 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:29:25Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T07:05:49Z._
