@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,258 · **Forks**: 173 · **Open issues**: 432 · **Contributors**: 141
+- **Stars**: 2,260 · **Forks**: 173 · **Open issues**: 432 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -52,26 +52,26 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 11 | 2 | 0 | 0 | 21 |
-| last60d | 2026-08-29 | 0 | 15 | 2 | 0 | 0 | 29 |
-| 90d | 2026-07-30 | 0 | 22 | 2 | 2 | 0 | 37 |
-| last180d | 2026-05-01 | 0 | 27 | 3 | 5 | 0 | 49 |
-| 360d | 2025-11-02 | 0 | 37 | 4 | 7 | 1 | 63 |
-| last720d | 2024-11-07 | 0 | 81 | 5 | 23 | 8 | 242 |
+| 30d | 2026-09-29 | 0 | 10 | 1 | 0 | 0 | 21 |
+| last60d | 2026-08-30 | 0 | 15 | 2 | 0 | 0 | 29 |
+| 90d | 2026-07-31 | 0 | 22 | 2 | 2 | 0 | 37 |
+| last180d | 2026-05-02 | 0 | 27 | 3 | 5 | 0 | 49 |
+| 360d | 2025-11-03 | 0 | 37 | 4 | 7 | 1 | 63 |
+| last720d | 2024-11-08 | 0 | 81 | 5 | 23 | 8 | 242 |
 
 ## Distribution status
 
-Reported by **41** distros on [repology.org](https://repology.org/project/flit). **7** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/flit). **1** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `4.1.0` | ✅ latest |
-| Debian 14 | `4.1.0` | ✅ latest |
+| Debian unstable | `4.1.0` | ⚠️ outdated |
+| Debian 14 | `4.1.0` | ⚠️ outdated |
 | Debian 13 | `3.12.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.12.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.9.0` | ⚠️ outdated |
-| Homebrew | `4.1.0` | ✅ latest |
-| Void | `4.1.0` | ✅ latest |
+| Homebrew | `4.2.0` | ✅ latest |
+| Void | `4.1.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:05:49Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:19:45Z._
