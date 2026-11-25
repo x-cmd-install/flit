@@ -42,36 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,261 · **Forks**: 172 · **Open issues**: 434 · **Contributors**: 140
+- **Stars**: 2,262 · **Forks**: 173 · **Open issues**: 434 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 307 · **Open PRs**: 22 · **Closed issues**: 330 · **Open issues**: 104 · **Commits**: 1471
+- **Releases**: 0 · **Merged PRs**: 308 · **Open PRs**: 22 · **Closed issues**: 330 · **Open issues**: 104 · **Commits**: 1475
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 0 | 1 | 1 | 0 |
-| last60d | 2026-09-25 | 0 | 11 | 2 | 1 | 1 | 21 |
-| 90d | 2026-08-26 | 0 | 15 | 2 | 1 | 1 | 29 |
-| last180d | 2026-05-28 | 0 | 26 | 3 | 6 | 1 | 48 |
-| 360d | 2025-11-29 | 0 | 35 | 4 | 8 | 2 | 60 |
-| last720d | 2024-12-04 | 0 | 78 | 5 | 24 | 9 | 240 |
-
-## Distribution status
-
-Reported by **42** distros on [repology.org](https://repology.org/project/flit). **2** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.1.0` | ⚠️ outdated |
-| Debian 14 | `4.1.0` | ⚠️ outdated |
-| Debian 13 | `3.12.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.12.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.9.0` | ⚠️ outdated |
-| Homebrew | `4.2.0` | ✅ latest |
-| Void | `4.2.0` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 3 | 0 | 1 | 1 | 3 |
+| last60d | 2026-09-26 | 0 | 12 | 2 | 1 | 1 | 24 |
+| 90d | 2026-08-27 | 0 | 16 | 2 | 1 | 1 | 32 |
+| last180d | 2026-05-29 | 0 | 27 | 3 | 6 | 1 | 51 |
+| 360d | 2025-11-30 | 0 | 36 | 4 | 8 | 2 | 63 |
+| last720d | 2024-12-05 | 0 | 79 | 5 | 24 | 9 | 244 |
 
 ## Improve this data
 
@@ -82,4 +68,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:46:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:31:11Z._
