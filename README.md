@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 0 | 1 | 1 | 3 |
-| last60d | 2026-09-27 | 0 | 12 | 2 | 1 | 1 | 24 |
-| 90d | 2026-08-28 | 0 | 16 | 2 | 1 | 1 | 32 |
-| last180d | 2026-05-30 | 0 | 27 | 3 | 6 | 1 | 51 |
-| 360d | 2025-12-01 | 0 | 36 | 4 | 8 | 2 | 63 |
-| last720d | 2024-12-06 | 0 | 79 | 5 | 24 | 9 | 244 |
+| 30d | 2026-10-28 | 0 | 1 | 0 | 1 | 1 | 3 |
+| last60d | 2026-09-28 | 0 | 12 | 2 | 1 | 1 | 24 |
+| 90d | 2026-08-29 | 0 | 16 | 2 | 1 | 1 | 32 |
+| last180d | 2026-05-31 | 0 | 27 | 3 | 6 | 1 | 51 |
+| 360d | 2025-12-02 | 0 | 36 | 4 | 8 | 2 | 63 |
+| last720d | 2024-12-07 | 0 | 79 | 5 | 24 | 9 | 244 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:47:52Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:37:52Z._
