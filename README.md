@@ -52,12 +52,26 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 0 | 1 | 1 | 3 |
-| last60d | 2026-09-28 | 0 | 12 | 2 | 1 | 1 | 24 |
-| 90d | 2026-08-29 | 0 | 16 | 2 | 1 | 1 | 32 |
-| last180d | 2026-05-31 | 0 | 27 | 3 | 6 | 1 | 51 |
-| 360d | 2025-12-02 | 0 | 36 | 4 | 8 | 2 | 63 |
-| last720d | 2024-12-07 | 0 | 79 | 5 | 24 | 9 | 244 |
+| 30d | 2026-10-29 | 0 | 1 | 0 | 1 | 1 | 3 |
+| last60d | 2026-09-29 | 0 | 11 | 1 | 1 | 1 | 24 |
+| 90d | 2026-08-30 | 0 | 16 | 2 | 1 | 1 | 32 |
+| last180d | 2026-06-01 | 0 | 27 | 3 | 6 | 1 | 51 |
+| 360d | 2025-12-03 | 0 | 36 | 4 | 8 | 2 | 63 |
+| last720d | 2024-12-08 | 0 | 79 | 5 | 24 | 9 | 244 |
+
+## Distribution status
+
+Reported by **42** distros on [repology.org](https://repology.org/project/flit). **2** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.1.0` | ⚠️ outdated |
+| Debian 14 | `4.1.0` | ⚠️ outdated |
+| Debian 13 | `3.12.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.12.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.9.0` | ⚠️ outdated |
+| Homebrew | `4.2.0` | ✅ latest |
+| Void | `4.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +82,4 @@ Install metadata for flit lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:37:52Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:55:21Z._
